@@ -22,14 +22,12 @@ An in-depth look at the telemetry from the 2021 Abu Dhabi Qualifying session.
 - **Insights**: Analysis of top speeds, braking points, and cornering efficiency.
 - **Tools used**: Time-series data processing, distance-based telemetry mapping.
 
+![Telemetry Comparison](figure/Ham_vs_Ver.png)
+
 ### 2. Tire Degradation Analysis (Spanish GP)
 Comparing Soft, Medium, and Hard compounds during the race.
 - **Insights**: Visualizing the performance drop-off (degradation) vs. fuel load correction.
 - **Data Cleaning**: Filtering pit-stop "noise" and Safety Car periods to find pure racing pace.
 
-## 🚀 Installation & Setup
-To run this project locally, ensure you have Python installed, then:
+![Tire Degradation](figure/tire_degradation.png)
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/f1-data-analysis.git](https://github.com/YOUR_USERNAME/f1-data-analysis.git)
