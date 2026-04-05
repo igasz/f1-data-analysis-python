@@ -31,3 +31,7 @@ Comparing Soft, Medium, and Hard compounds during the race.
 
 ![Tire Degradation](figure/tire_degradation.png)
 
+### Top speed vs. tyre compound
+Comparing top speed (and average) on different compound during the Spanish GP/
+
+![Top speed](figure/top_speed_vs_tire_compound.png)
